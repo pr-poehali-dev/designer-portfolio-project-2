@@ -147,7 +147,7 @@ const Index = () => {
             <Card className="group cursor-pointer border-0 shadow-sm hover:shadow-lg transition-all duration-300">
               <div className="aspect-[4/3] bg-gradient-to-br from-purple-100 to-pink-100 rounded-t-lg overflow-hidden">
                 <img 
-                  src="/img/990ad047-3e4e-45c5-a7f9-e55a2961005a.jpg" 
+                  src="/img/f12cee16-4e1d-4bc4-b38d-543a88dd293a.jpg" 
                   alt="Instagram социальные сети дизайн"
                   className="w-full h-full object-cover"
                 />
@@ -168,7 +168,7 @@ const Index = () => {
             <Card className="group cursor-pointer border-0 shadow-sm hover:shadow-lg transition-all duration-300">
               <div className="aspect-[4/3] bg-gradient-to-br from-blue-100 to-cyan-100 rounded-t-lg overflow-hidden">
                 <img 
-                  src="/img/2c6c14ba-e423-4ce5-abfb-6261276fdafa.jpg" 
+                  src="/img/c5809137-e154-4d91-99eb-f2d2fb2b468b.jpg" 
                   alt="Карточки товаров маркетплейс дизайн"
                   className="w-full h-full object-cover"
                 />
